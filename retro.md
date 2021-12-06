@@ -3,7 +3,7 @@
 ## Start, Stop, Continue, More of, Less of Wheel
 Retrospektiivi toteutetaan ryhmän koosta riippuen 10-25 minuutissa. 
 Prosessi aloitetaan piirtämällä ympyrä joka jaetaan viiteen osioon; aloita, lopeta, jatka, lisää ja vähemmän. 
-Ryhmän jäseniltä kysytään minkä asian tekeminen tulisi aloittaa, mitä lopetta ja mitä kannattaisi jatkaa. 
+Ryhmän jäseniltä kysytään minkä asian tekeminen tulisi aloittaa, mitä lopettaa ja mitä kannattaisi jatkaa. 
 Lisksi kysytään mitä pitäisi tehdä lisää ja mitä vähemmän. 
 Osallistujia rohkaistaan kommentoimaan ja kommentit kirjoitetaan oikeaan ymprän kategoriaan. 
 
